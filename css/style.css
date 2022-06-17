@@ -1,5 +1,10 @@
 body {
     background-color: #eaf6f6;
+    font-family: "Verdana";
+}
+
+h1, h3 {
+    color: #66BFBF;
 }
 
 hr {
@@ -10,5 +15,4 @@ hr {
     border-top-style: dotted;
     border-width: 5px;
     color: grey;
-    /* display: inline-block; */
 }
